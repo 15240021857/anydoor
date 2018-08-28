@@ -1,0 +1,26 @@
+{
+  "name": "anydoor",
+  "version": "1.0.0",
+  "description": "static web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "eslint .",
+    "fix": "eslint --fix ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/15240021857/anydoor.git"
+  },
+  "author": "xw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/15240021857/anydoor/issues"
+  },
+  "homepage": "https://github.com/15240021857/anydoor#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "eslint": "^5.4.0"
+  }
+}
